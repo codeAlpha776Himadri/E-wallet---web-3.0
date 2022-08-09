@@ -1,7 +1,7 @@
 # E-wallet---web-3.0
 Etherium E-wallet - send and receive crypto across the globe
 
-E Wallet is a fully accomplished web 3.0 application, capable of facilitating cryptocurrency transactions from one address to another on <>blockchain</>.
+E Wallet is a fully accomplished web 3.0 application, capable of facilitating cryptocurrency transactions from one address to another on <b><i>blockchain</i></b>.
 
 The Major tech used are - 
 <ul>
